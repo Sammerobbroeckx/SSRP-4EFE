@@ -231,7 +231,7 @@
     )
     (pin "1" (uuid 79d49dca-da84-4779-b7fd-47a71d85bfbd))
     (instances
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
           (reference "#PWR0140") (unit 1)
         )
@@ -266,7 +266,7 @@
     (pin "7" (uuid 4042234d-c11f-479e-9dad-96f64ea6a675))
     (pin "8" (uuid c297b426-df00-4c14-ba80-15a09327a32c))
     (instances
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
           (reference "U6") (unit 1)
         )
@@ -299,7 +299,7 @@
           (reference "#PWR0165") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
           (reference "#PWR094") (unit 1)
         )
@@ -332,7 +332,7 @@
           (reference "#PWR0165") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
           (reference "#PWR095") (unit 1)
         )
@@ -369,7 +369,7 @@
           (reference "R68") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
           (reference "R15") (unit 1)
         )
@@ -406,7 +406,7 @@
           (reference "R68") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
           (reference "R16") (unit 1)
         )

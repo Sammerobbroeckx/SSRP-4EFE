@@ -25,4 +25,5 @@
   (lib (name "MPX-4_MAP")(type "KiCad")(uri "${KIPRJMOD}/kicad6-libraries/MPX-4_MAP.kicad_sym")(options "")(descr ""))
   (lib (name "JDY-33")(type "KiCad")(uri "${KIPRJMOD}/kicad6-libraries/JDY-33.kicad_sym")(options "")(descr ""))
   (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/kicad6-libraries/misc.kicad_sym")(options "")(descr ""))
+  (lib (name "4EFE Connector")(type "KiCad")(uri "${KIPRJMOD}/4EFE Connector.kicad_sym")(options "")(descr ""))
 )

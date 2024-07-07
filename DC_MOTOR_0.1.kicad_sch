@@ -523,7 +523,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C9") (unit 1)
         )
@@ -559,7 +559,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR057") (unit 1)
         )
@@ -596,7 +596,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C6") (unit 1)
         )
@@ -633,7 +633,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C5") (unit 1)
         )
@@ -669,7 +669,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR060") (unit 1)
         )
@@ -705,7 +705,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR054") (unit 1)
         )
@@ -745,7 +745,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "R9") (unit 1)
         )
@@ -781,7 +781,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR058") (unit 1)
         )
@@ -818,7 +818,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C3") (unit 1)
         )
@@ -854,7 +854,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR066") (unit 1)
         )
@@ -890,7 +890,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR055") (unit 1)
         )
@@ -926,7 +926,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR061") (unit 1)
         )
@@ -963,7 +963,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C4") (unit 1)
         )
@@ -999,7 +999,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR056") (unit 1)
         )
@@ -1035,7 +1035,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR052") (unit 1)
         )
@@ -1083,7 +1083,7 @@
           (reference "U?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "U1") (unit 1)
         )
@@ -1120,7 +1120,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C1") (unit 1)
         )
@@ -1157,7 +1157,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C11") (unit 1)
         )
@@ -1194,7 +1194,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C10") (unit 1)
         )
@@ -1230,7 +1230,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR064") (unit 1)
         )
@@ -1267,7 +1267,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C8") (unit 1)
         )
@@ -1295,7 +1295,7 @@
     )
     (pin "1" (uuid cc503013-efb8-4b13-acb9-52f23068b090))
     (instances
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "P15") (unit 1)
         )
@@ -1332,7 +1332,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C7") (unit 1)
         )
@@ -1368,7 +1368,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR063") (unit 1)
         )
@@ -1404,7 +1404,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR065") (unit 1)
         )
@@ -1440,7 +1440,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR062") (unit 1)
         )
@@ -1477,7 +1477,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C2") (unit 1)
         )
@@ -1513,7 +1513,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR053") (unit 1)
         )
@@ -1553,7 +1553,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C12") (unit 1)
         )
@@ -1593,7 +1593,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "C13") (unit 1)
         )
@@ -1621,7 +1621,7 @@
     )
     (pin "1" (uuid 0e626a57-6d1c-4901-8d24-a132761fec62))
     (instances
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "P17") (unit 1)
         )
@@ -1657,7 +1657,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "uaefi"
+      (project "SSRP 4EFE"
         (path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/0c617583-4e3e-4059-8607-2ed650d520f4"
           (reference "#PWR059") (unit 1)
         )

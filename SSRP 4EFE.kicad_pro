@@ -79,16 +79,6 @@
         "lib_footprint_mismatch|56000000|127900000|b42599ef-5b79-4e4f-982b-f117de897da4|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|56000000|98000000|8da9deb2-26d8-4e14-bcdd-927a3c5083c3|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|79500000|66000000|23b7a75a-884e-4c5e-924d-475e7232fa7a|00000000-0000-0000-0000-000000000000",
-        "silk_edge_clearance|101210000|60000000|7a07e497-20ab-4253-bcaa-adfb9d3d2715|7130a717-7f18-48d1-bc5a-5c50677ebd09",
-        "silk_edge_clearance|107490000|60000000|7a07e497-20ab-4253-bcaa-adfb9d3d2715|778aeb34-a06a-4585-be67-caf3ef060a62",
-        "silk_edge_clearance|142510000|60000000|7a07e497-20ab-4253-bcaa-adfb9d3d2715|21d01516-970b-4e37-9671-f7f352346017",
-        "silk_edge_clearance|150000000|77990000|5d413501-01c5-4e83-869f-bdf8d89f7648|d479817b-3f28-4d74-939f-3f08a4688a7e",
-        "silk_edge_clearance|150000000|92010000|5d413501-01c5-4e83-869f-bdf8d89f7648|12beffb3-20a1-44f5-a8a2-272b914ae733",
-        "silk_edge_clearance|50000000|117610000|6bd58cdc-8fec-4d86-9345-5b3a835ad5b4|9dbe4624-1d9f-41f3-96a0-137362b3526a",
-        "silk_edge_clearance|50000000|118790000|6bd58cdc-8fec-4d86-9345-5b3a835ad5b4|d9750c42-326c-4659-9759-638c5f14d22e",
-        "silk_edge_clearance|50000000|137010000|6bd58cdc-8fec-4d86-9345-5b3a835ad5b4|73f2086e-da36-44db-a267-7fc6a5a6a4fd",
-        "silk_edge_clearance|50000000|78390000|6bd58cdc-8fec-4d86-9345-5b3a835ad5b4|15e72c37-9fc1-4b8e-a7b2-18e27b2e63cd",
-        "silk_edge_clearance|57790000|60000000|7a07e497-20ab-4253-bcaa-adfb9d3d2715|195ad43f-1cb3-4b4d-bc1b-f0fd21bcf599",
         "silk_over_copper|109820000|73009267|aa5a2198-a534-4ac6-aa15-4f2ea56c58c1|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|110578106|72679847|fa676a8f-7ede-443f-99a4-c15ec77fa629|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|111644886|74645000|852473b4-3968-4174-8049-32bc0a25a27a|00000000-0000-0000-0000-000000000000",
@@ -643,7 +633,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "uaefi.kicad_pro",
+    "filename": "SSRP 4EFE.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -793,16 +783,8 @@
       "LS HOT"
     ],
     [
-      "7f618b1f-fe11-49db-a473-d0b521b1fa4f",
-      "MAP"
-    ],
-    [
       "92c4206f-a69e-4d4d-9308-206d3518e11e",
       "Ignition"
-    ],
-    [
-      "ced20183-e5c8-42b4-80bd-35fc70d9313a",
-      "EGT"
     ],
     [
       "45207479-6ae5-486c-ab42-805dda4ce511",
